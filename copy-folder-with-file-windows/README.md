@@ -1,1 +1,1 @@
-simple python script to copy folder with the files in the folder to another disk or folder in windows 10
+This Python script copy all of the content from the folder for easy copy between HDDs 
