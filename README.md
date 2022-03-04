@@ -1,2 +1,2 @@
 # python-windows
-some python script for windows 10
+Here some python script usable in windows systems 
